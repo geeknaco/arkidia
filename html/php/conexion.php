@@ -1,9 +1,9 @@
 <?php  
 
 	$host = "localhost";
-	$user ="geeknaco";
-	$pw = "Geeknaco.117.mysql";
-	$bd = "Arkidia";
+	$user ="root";
+	$pw = "root";
+	$bd = "arkidia";
 	$conn = new mysqli($host, $user, $pw, $bd);
 	
 	
